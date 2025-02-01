@@ -5,7 +5,9 @@
 欢迎使用【**ChatGPT 中文版**】国内使用指南！本文将全面教您如何**无需翻墙，轻松使用 ChatGPT**，并提供可靠的镜像网站，**无限使用 GPT-4、4o 和 o1**型号，助您高效利用人工智能助手。
 
 ChatGPT 官网入口：[https://chatgpt.com](https://chatgpt.com)
+
 ChatGPT 中文版入口：[https://chat.lify.vip/](https://chat.lify.vip/)
+
 ChatGPT 镜像网站入口：[https://www.yixiaai.com](https://www.yixiaai.com)
 
 ## 目录
